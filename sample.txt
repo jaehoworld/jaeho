@@ -1,2 +1,7 @@
 원숭이 어쩌고
 내용 수정
+vim sample.txt 로 수정하던지 아니면 echo "쓸 메시지" > sample.txt 로 내용추가
+git add sample.txt로 인덱스 내용 최신화
+git commit -m "메모로 달아놓을 내용쓰소"
+git log 나 gitk로 확인 한번 해놓고
+github랑 연결되어있다면 git push origin master로 원격저장소에 정보 업뎃
