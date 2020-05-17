@@ -5,3 +5,5 @@ git add sample.txt로 인덱스 내용 최신화
 git commit -m "메모로 달아놓을 내용쓰소"
 git log 나 gitk로 확인 한번 해놓고
 github랑 연결되어있다면 git push origin master로 원격저장소에 정보 업뎃
+
+5/17 강의 시작
